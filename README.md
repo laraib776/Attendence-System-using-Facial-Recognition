@@ -4,15 +4,21 @@ FaceAttend is a cutting-edge attendance system that utilizes facial recognition 
 **Key Features:**
 
 **1**- Facial Recognition: Utilizes face_recognition library to identify students and mark their attendance.
+
 **2**- Real-time Attendance: Marks attendance in real-time, eliminating the need for manual attendance taking.
+
 **3**- Automated Reporting: Generates attendance reports in CSV format, making it easy to track student attendance.
+
 **4**- Department-wise Attendance: Supports multiple departments, allowing for separate attendance tracking and reporting.
+
 **5**- Voice Output: Provides audio feedback for students when their attendance is marked.
 
 **Technology Stack:**
 
 **1**- Backend: Python
+
 **2**- Libraries: face_recognition, OpenCV, pyttsx3
+
 **3**- Database: CSV files
 
 **Installation:**
@@ -33,9 +39,9 @@ The system will start capturing video from the default camera.
 
 When a student's face is recognized, their attendance will be marked, and their name will be displayed on the screen.
 
-To mark attendance for all students, press 's' on the keyboard.
+>> To mark attendance for all students, press 's' on the keyboard.
 
-To exit the system, press 'l' on the keyboard.
+>> To exit the system, press 'l' on the keyboard.
 
 **Note:**
 
